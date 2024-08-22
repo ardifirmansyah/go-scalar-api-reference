@@ -1,3 +1,3 @@
-module github.com/MarceloPetrucio/go-scalar-api-reference
+module github.com/ardifirmansyah/go-scalar-api-reference
 
-go 1.22.0
+go 1.14
