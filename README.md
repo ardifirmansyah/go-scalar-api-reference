@@ -50,7 +50,7 @@ import (
 	"github.com/go-chi/chi/v5"
 	"github.com/go-chi/chi/v5/middleware"
 
-	"github.com/MarceloPetrucio/go-scalar-api-reference"
+	"github.com/ardifirmansyah/go-scalar-api-reference"
 )
 
 func main() {
